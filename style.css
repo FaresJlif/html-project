@@ -1,0 +1,20 @@
+li{
+display: inline;
+}
+p{
+    font-family: 'roboto';
+}
+h2{
+
+    color: red;
+}
+p.solid {border-style: solid;}
+p.dotted {border-style: dotted;}
+header {
+    background: #e4e012
+}
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 23px;
+}
